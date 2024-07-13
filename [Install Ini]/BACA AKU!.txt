@@ -1,0 +1,9 @@
+Sebelum memulai program : 
+1. Install terlebih dahulu semua font pada folder `font`.
+2. Install pyautogui, dan pygame. Dengan cara ketik:
+	- pip install pygame
+	- pip install pyautogui
+   pada terminal VSCode.
+
+Enjoy Da Game!
+
